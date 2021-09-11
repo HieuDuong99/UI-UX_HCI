@@ -1,9 +1,9 @@
-User personas
-\User stories
-\Empathy map
-\User Flows
-\User Scenarios
-\Site map
-\Wirefame
-\Story Board
-\User journey scenarios
+User personas</br>
+User stories</br>
+Empathy map</br>
+User Flows</br>
+User Scenarios</br>
+Site map</br>
+Wirefame</br>
+Story Board</br>
+User journey scenarios</br>
